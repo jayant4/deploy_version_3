@@ -4,8 +4,8 @@ import streamlit as st
 
 st.title('P value from R')
 
-r=st.text_input(" Enter R value : ")
-N=st.text_input(" Enter N value : ")
+r=st.number_input(" Enter R value : ")
+N=st.number_input(" Enter N value : ")
 
 
 
