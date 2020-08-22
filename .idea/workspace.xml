@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc0cfeb8-aaa3-42ef-9e09-0aec0ea6f7c8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_proportion_z_test_2_tail.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_proportion_z_test_2_tail.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_sample_t_interval.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_sample_t_interval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_sample_t_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_sample_t_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_sample_z_interval.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_sample_z_interval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_sample_z_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_sample_z_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_sample_T_test_pooled_variance.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_sample_T_test_pooled_variance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_sample_T_test_pooled_variance_confidance_interval.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_sample_T_test_pooled_variance_confidance_interval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_sample_t_confidence_interval.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_sample_t_confidence_interval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_sample_t_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_sample_t_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_sample_z_confidence_interval.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_sample_z_confidence_interval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_sample_z_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_sample_z_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Five_Number_Summary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Five_Number_Summary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P_value_from_T_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/P_value_from_T_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z_Score_for_2_Population_Proportions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Z_Score_for_2_Population_Proportions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confidence_internal_two_proportion.py" beforeDir="false" afterPath="$PROJECT_DIR$/confidence_internal_two_proportion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/confidence_interval_1_proportional.py" beforeDir="false" afterPath="$PROJECT_DIR$/confidence_interval_1_proportional.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/degree_of_freedom.py" beforeDir="false" afterPath="$PROJECT_DIR$/degree_of_freedom.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/standard_derivation.py" beforeDir="false" afterPath="$PROJECT_DIR$/standard_derivation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/streamlit_runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/streamlit_runner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t_critical_value.py" beforeDir="false" afterPath="$PROJECT_DIR$/t_critical_value.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t_test_for_mean_value_of_difference.py" beforeDir="false" afterPath="$PROJECT_DIR$/t_test_for_mean_value_of_difference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_multiple_pages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_page1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/z_critical_value.py" beforeDir="false" afterPath="$PROJECT_DIR$/z_critical_value.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gRWiJ7dQpd1GwkGpz0VmUu1bno" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc0cfeb8-aaa3-42ef-9e09-0aec0ea6f7c8" name="Default Changelist" comment="" />
+      <created>1598078010426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598078010426</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="191" y="0" key="SettingsEditor" timestamp="1598107633679">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="191" y="0" key="SettingsEditor/62.0.1474.864/-1360.0.1360.738@62.0.1474.864" timestamp="1598107633679" />
+  </component>
+</project>
