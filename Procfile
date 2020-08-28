@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run ml-iris-app.py
+web: sh setup.sh && streamlit run streamlit_runner.py
